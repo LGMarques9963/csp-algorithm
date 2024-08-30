@@ -1,0 +1,7 @@
+não pode haver letras nos "."
+as palavras que se cruzam, devem se cruzar em letras compartilhadas
+o tamanho da palavra tem que ser igual ao número de "?" seguidos
+as palavras devem existir no array de palavras
+as palavras só podem ser escritas da esquerda para direita e de cima para baixo
+
+Dominio D = {lista_palavras.txt}
